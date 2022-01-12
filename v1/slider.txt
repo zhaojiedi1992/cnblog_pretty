@@ -1,0 +1,5 @@
+<!-- 添加公告栏图片并指向首页链接 -->
+<div align="center">
+    <a href="https://www.cnblogs.com/zhaojiedi1992/">
+    <img src="https://files.cnblogs.com/files/zhaojiedi1992/sijia.bmp"></a> 
+</div>
