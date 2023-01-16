@@ -106,8 +106,7 @@
 #sideBarContents {
     float: left;
     overflow: auto;
-    overflow-x: hidden;
-    !important;
+    overflow-x: hidden;!important;
     width: 200px;
     min-height: 101px;
     max-height: 460px;
@@ -393,6 +392,10 @@ body {
 
 .catListTitle,
 sidebar-block h3,
+#sidebar_toptags h3,
+#sidebar_scorerank h3,
+#sidebar_news h3,
+#leftmenu h3,
 #sidebar_categories h3 {
     background: #390;
     border-bottom: 1px solid #006600;
@@ -406,3 +409,22 @@ sidebar-block h3,
     text-indent: 0.5em;
     text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
 }
+
+/* * 评论 *
+
+.blog_comment_body {
+    background: #B2E866;
+    float: left;
+    border-radius: 5px;
+    position: relative;
+    overflow: visible;
+    margin-left: 3px;
+    max-width: 1700px;
+}
+
+.feedbackListSubtitle a.layer {
+    background: #B2E866;
+    color: #414141 !important;
+    padding: 2px 4px;
+    border-radius: 2px;
+} */
