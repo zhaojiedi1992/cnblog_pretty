@@ -393,6 +393,10 @@ body {
 
 .catListTitle,
 sidebar-block h3,
+#sidebar_toptags h3,
+#sidebar_scorerank h3,
+#sidebar_news h3,
+#leftmenu h3,
 #sidebar_categories h3 {
     background: #390;
     border-bottom: 1px solid #006600;
